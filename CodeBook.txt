@@ -5,6 +5,10 @@ Course Project
 Dan Cogswell
 ==================================================================
 
+I know we're supposed to list each veariable--which I do a bit further down the page--but I don't understand how that adds value to what I've listed here. I mean, there numbers, right?
+
+Instead, here's a description of the data.
+
 
 Code book describing variables
 =================
